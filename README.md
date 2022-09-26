@@ -1,5 +1,5 @@
-# Implementation-of-CNN-for-Prediction-of-Foot-Disorder
-Implementation of CNN for Prediction of Foot Disorder in Python
+# Implementation of CNN for Prediction of Foot Disorder (Machine Learning Course)
+Implementation of Convolutional Neural Network for Prediction of Foot Disorder in Python
 
 ---
 
